@@ -1,4 +1,4 @@
-# Apni Pyari Photos, Songs, Videos 📁🎵🎬
+# Sky_Store 📁🎵🎬
 
 This is a Flask-based web application that allows users to upload, view, download, and delete media files including images, audio, and videos through a clean and simple frontend UI.
 
@@ -38,8 +38,8 @@ This is a Flask-based web application that allows users to upload, view, downloa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/apni-pyari-media.git
-cd apni-pyari-media
+git clone https://github.com/Ambooze08/Sky_Store.git
+cd Sky_Store
 ```
 
 2. Create Virtual Environment and Install Dependencie
